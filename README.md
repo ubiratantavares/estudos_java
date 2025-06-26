@@ -18,3 +18,12 @@ Repositório criado para documentar estudos sobre a linguagem Java.
 
 #### Aula 06 - Exercícios
 
+#### Recursos
+
+<https://github.com/digitalinnovationone/exercicios-java-basico>
+
+<https://www.w3schools.com/java/java_ref_keywords.asp>
+
+<https://www.dio.me/articles/java-tipos-primitivos>
+
+<https://www.baeldung.com/java-bitwise-operators>
